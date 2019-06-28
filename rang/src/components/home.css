@@ -1,0 +1,24 @@
+
+#borderimg1{
+border: 20px solid transparent;
+padding: 15px;
+-webkit-border-image: url(../images/rag1.jpg) 30 round; /* Safari 3.1-5 */
+-o-border-image: url(../images/rag1.jpg) 30 round; /* Opera 11-12.1 */
+border-image: url(../images/rag1.jpg) 30 round;
+font-size: 22px;
+font-family:comic sans monospace;
+color: RGB(0,0,50);
+
+
+}
+
+
+.p08{
+font-family:monospace;
+  text-align: center;
+  color: #800000;
+  font-size: 50px;
+
+
+border-width: thick;
+}
