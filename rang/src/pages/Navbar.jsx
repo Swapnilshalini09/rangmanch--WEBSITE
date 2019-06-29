@@ -11,7 +11,7 @@ render(){
     </div>
     <ul class="nav navbar-nav ">
       <li class="active"><Link to="/">HOME</Link></li>
-      <li><Link to="About/">ABOUT US</Link></li>
+      <li><Link to="/About">ABOUT US</Link></li>
       <li><a href="#">ART FORMS </a></li>
       <li><a href="#">GALLERY</a></li>
         <li><Link to="/Contact">CONTACT US</Link></li>
