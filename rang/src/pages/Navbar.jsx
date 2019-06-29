@@ -14,7 +14,7 @@ render(){
       <li><Link to="About/">ABOUT US</Link></li>
       <li><a href="#">ART FORMS </a></li>
       <li><a href="#">GALLERY</a></li>
-        <li><Link class="navlink" to="contactus/">CONTACT US</Link></li>
+        <li><Link to="/Contact">CONTACT US</Link></li>
      </ul>
     <button class="btn btn-info navbar-btn">SIGN IN</button>
   </div>

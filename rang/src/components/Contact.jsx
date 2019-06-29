@@ -3,7 +3,7 @@ import Navbar from '../pages/Navbar.jsx';
 import Footer from '../pages/Footer.jsx';
 import Jumbotron from '../pages/Jumbotron.jsx';
 import './home.css';
-class contactus extends Component {
+class Contact extends Component {
   render(){
     return(
       <div>
@@ -25,4 +25,4 @@ class contactus extends Component {
 );
   }
 }
-export default contactus;
+export default Contact;
