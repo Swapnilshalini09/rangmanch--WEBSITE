@@ -10,16 +10,18 @@ render(){
       <a class="navbar-brand" href="#">RANGMANCH</a>
     </div>
     <ul class="nav navbar-nav ">
-      <li class="active"><a href="#">HOME</a></li>
-      <li><a href="#">ABOUT US</a></li>
+      <li class="active"><Link to="/">HOME</Link></li>
+      <li><Link to="About/">ABOUT US</Link></li>
       <li><a href="#">ART FORMS </a></li>
       <li><a href="#">GALLERY</a></li>
-        <li><a href="#">CONTACT US</a></li>
-
-    </ul>
+        <li><Link class="navlink" to="contactus/">CONTACT US</Link></li>
+     </ul>
     <button class="btn btn-info navbar-btn">SIGN IN</button>
   </div>
 </nav>
+
+
+
   );
 }
 }

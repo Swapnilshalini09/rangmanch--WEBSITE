@@ -3,7 +3,8 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import logo from './logo.svg';
 import './App.css';
 import home from './components/home.jsx';
-import './App.css';
+import contactus from './components/contactus.jsx';
+import About from './components/About.jsx';
 
 
 class App extends Component {
@@ -11,6 +12,8 @@ class App extends Component {
   return (<Router>
 <div>
 <Route exact path="/" component= {home}/>
+<Route  path="/About" component= {About}/>
+<Route  path="/contactus" component= {contactus}/>
 </div>
 </Router>
   );
