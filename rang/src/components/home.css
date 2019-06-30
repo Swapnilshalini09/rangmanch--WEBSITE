@@ -1,6 +1,6 @@
 
 #borderimg1{
-border: 20px solid transparent;
+border: 30px solid transparent;
 padding: 15px;
 -webkit-border-image: url(../images/rag1.jpg) 30 round; /* Safari 3.1-5 */
 -o-border-image: url(../images/rag1.jpg) 30 round; /* Opera 11-12.1 */

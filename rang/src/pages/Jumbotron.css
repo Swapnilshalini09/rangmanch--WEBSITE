@@ -2,7 +2,7 @@
   background-image: url(../images/rag2.jpg);
   background-position: center;
 
-  background-size: auto;
+  background-size:auto;
 background-attachment: scroll;
   text-align: center;
 border-collapse: collapse;
@@ -14,7 +14,7 @@ border-collapse: collapse;
 font-style: bold;
 font-family: Trebuchet MS;
 color: #FFFFFF;
- padding: 5px;
+ padding: 8px;
  background-image: url(../images/rag1.jpg);
 background-size: 300px 100px;;
   background-position: center;
