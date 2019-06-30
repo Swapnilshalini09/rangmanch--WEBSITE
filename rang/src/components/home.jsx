@@ -6,12 +6,14 @@ import './home.css';
 class home extends Component {
   render(){
     return(
-      <div>
+      <div >
  <Navbar />
  <Jumbotron title="RANGMANCH" />
 
 <p id="borderimg1">
+
 <p class="p08">
+
 <b>PROJECT - RANGMANCH </b>
 
 
