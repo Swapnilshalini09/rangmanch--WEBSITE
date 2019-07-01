@@ -1,22 +1,19 @@
 .jumbotron {
   background-image: url(../images/rag2.jpg);
   background-position: center;
-
-  background-size:auto;
+ padding: 0.5em 0.6em;
+  background-size:contain;
 background-attachment: scroll;
   text-align: center;
-border-collapse: collapse;
-
-
 }
 .p01
 {
 font-style: bold;
 font-family: Trebuchet MS;
 color: #FFFFFF;
- padding: 8px;
+ padding: 5px;
  background-image: url(../images/rag1.jpg);
-background-size: 300px 100px;;
+background-size: 150px 100px;
   background-position: center;
 
 }

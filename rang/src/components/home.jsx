@@ -14,22 +14,31 @@ class home extends Component {
 
 <p class="p08">
 
-<b>PROJECT - RANGMANCH </b>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ENACTUS - DELHI TECHNOLOGICAL UNIVERSITY </b>
 
 
 </p>
 
-<img src={require('../images/rag3.jpg')}  alt="Smiley face" width="400" height="300" hspace="20" align="left" fluid />
+<img src={require('../images/enac.png')} alt="Smiley face"  width="250" height="110" hspace="20" align="left"  />
 
-           Sed ut perspicia unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et qualasss molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est !
+Formed in February 2011, we are a dedicated team of 85 students with a head for business and a heart for the world. We truly believe in empowerment of the weaker sections of the society through business acumen and diligence. It is this belief which has allowed Enactus DTU to run 4 flourishing projects across the NCR.
+
+Enactus DTU has constantly endeavored to be the mascot of change and revolution, and bring innovative entrepreneurial solutions to the table in matters concerning the various evils afflicting the Indian society.<br/>
+
+This the approach has brought Enactus multiple laurels of success. Enactus DTU represented India in the World Cup in 2013 and recently placed 3rd in India, in the Enactus National Competition 2017. We secured the fifth position in the Enactus National Competition 2018 out of 24 competing teams.
+
+
+   <p class="p08">
+   <b>PROJECT - RANGMANCH </b>
+   </p>
+   <img src={require('../images/rang-logo.png')} alt="Smiley face"  width="220" height="150" hspace="35" align="left"  />
+
+   India boasts of a rich heritage that bespeaks of it glorious past.Our ancestors have preserved our cultural and monumental heritage for centuries and it is our duty to continue the legacy. <br/>Over the period of time, when urbanization struck these art forms were buried deep.The culture and knowledge that was being passed down from generations were brought to a halt and the artists were forced to disband their age-old lineage.<br/> Project Rangmanch began its journey with the Kathputli community
+   .
+  Enactus DTU aims to bring back the former glory of these forgotten artists and help them in adapting their art-form to suit modern day requirements, simultaneously helping the artist in their transition to the formal business sector, through this multi-sided business platform.
 
 
 
-
-
- <img src={require('../images/pika.jpg')} alt="Smiley face" width="100" height="100" hspace="40" align="left"/>
-  <img src={require('../images/pika.jpg')} alt="Smiley face" width="100" height="100" hspace="40" align="middle"/>
-   <img src={require('../images/pika.jpg')} alt="Smiley face" width="100" height="100" hspace="40" align="right"/>
 </p>
 
 <Footer />

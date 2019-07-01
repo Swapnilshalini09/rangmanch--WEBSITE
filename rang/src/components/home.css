@@ -1,13 +1,25 @@
 
 #borderimg1{
-border: 30px solid transparent;
+border: 20px solid transparent;
 padding: 15px;
 -webkit-border-image: url(../images/rag1.jpg) 30 round; /* Safari 3.1-5 */
 -o-border-image: url(../images/rag1.jpg) 30 round; /* Opera 11-12.1 */
 border-image: url(../images/rag1.jpg) 30 round;
-font-size: 22px;
-font-family:comic sans monospace;
+font-size: 15px;
+font-family:Bradley Hand, cursive;
 color: RGB(0,0,50);
+
+
+}
+
+.p06 {
+  background-image: url(../images/rag2.jpg);
+  background-position: center;
+
+  background-size:auto;
+background-attachment: scroll;
+  text-align: center;
+border-collapse: collapse;
 
 
 }
@@ -15,14 +27,11 @@ color: RGB(0,0,50);
 
 
 
-
-
-
 .p08{
-font-family:monospace;
+font-family:;
   text-align: center;
   color: #800000;
-  font-size: 50px;
+  font-size: 40px;
 
 
 border-width: thick;
