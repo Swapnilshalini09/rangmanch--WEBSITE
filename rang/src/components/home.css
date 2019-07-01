@@ -5,15 +5,15 @@ padding: 15px;
 -webkit-border-image: url(../images/rag1.jpg) 30 round; /* Safari 3.1-5 */
 -o-border-image: url(../images/rag1.jpg) 30 round; /* Opera 11-12.1 */
 border-image: url(../images/rag1.jpg) 30 round;
-font-size: 15px;
-font-family:Bradley Hand, cursive;
+font-size: 17px;
+font-family:geneva;
 color: RGB(0,0,50);
 
 
 }
 
 .p06 {
-  background-image: url(../images/rag2.jpg);
+  background-image: url(../images/rag5.jpg);
   background-position: center;
 
   background-size:auto;
@@ -28,10 +28,10 @@ border-collapse: collapse;
 
 
 .p08{
-font-family:;
+font-family:geneva ;
   text-align: center;
   color: #800000;
-  font-size: 40px;
+  font-size: 30px;
 
 
 border-width: thick;

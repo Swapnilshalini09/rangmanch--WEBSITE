@@ -4,7 +4,7 @@ import logo from './logo.svg';
 import './App.css';
 import home from './components/home.jsx';
 import Contact from './components/Contact.jsx';
-import About from './components/About.jsx';
+
 
 
 class App extends Component {
@@ -12,7 +12,7 @@ class App extends Component {
   return (<Router>
 <div>
 <Route exact path="/" component= {home}/>
-<Route  path="/About" component= {About}/>
+
 <Route  path="/Contact" component= {Contact}/>
 </div>
 </Router>
