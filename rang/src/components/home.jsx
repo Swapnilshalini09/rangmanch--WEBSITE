@@ -19,7 +19,7 @@ class home extends Component {
 
 </p>
 
-<img src={require('../images/enac.png')} alt="Smiley face"  width="200" height="130" hspace="20" align="left"  />
+<img src={require('../images/enac.png')} alt="Smiley face"  width="150" height="130" hspace="20" align="left"  />
 
 Formed in February 2011, we are a dedicated team of 85 students with a head for business and a heart for the world. We truly believe in empowerment of the weaker sections of the society through business acumen and diligence. It is this belief which has allowed Enactus DTU to run 4 flourishing projects across the NCR.
 
@@ -31,12 +31,13 @@ This the approach has brought Enactus multiple laurels of success. Enactus DTU r
    <p class="p08">
    <b>PROJECT - RANGMANCH </b>
    </p>
-   <img src={require('../images/rang-logo.png')} alt="Smiley face"  width="200" height="140" hspace="20" align="left"  />
+   <img src={require('../images/rang-logo.png')} alt="Smiley face"  width="150" height="140" hspace="20" align="left"  />
 
    India boasts of a rich heritage that bespeaks of it glorious past.Our ancestors have preserved our cultural and monumental heritage for centuries and it is our duty to continue the legacy. <br/>Over the period of time, when urbanization struck these art forms were buried deep.The culture and knowledge that was being passed down from generations were brought to a halt and the artists were forced to disband their age-old lineage.<br/> Project Rangmanch began its journey with the Kathputli community
    .
   Enactus DTU aims to bring back the former glory of these forgotten artists and help them in adapting their art-form to suit modern day requirements, simultaneously helping the artist in their transition to the formal business sector, through this multi-sided business platform.
-
+<br/>
+<br/>
 
 
 </p>
