@@ -2,9 +2,9 @@
 #borderimg1{
 border: 20px solid transparent;
 padding: 15px;
--webkit-border-image: url(../images/rag1.jpg) 30 round; /* Safari 3.1-5 */
--o-border-image: url(../images/rag1.jpg) 30 round; /* Opera 11-12.1 */
-border-image: url(../images/rag1.jpg) 30 round;
+-webkit-border-image: url(../images/rag5.jpg) 30 round; /* Safari 3.1-5 */
+-o-border-image: url(../images/rag5.jpg) 30 round; /* Opera 11-12.1 */
+border-image: url(../images/rag5.jpg) 30 round;
 font-size: 17px;
 font-family:geneva;
 color: RGB(0,0,50);

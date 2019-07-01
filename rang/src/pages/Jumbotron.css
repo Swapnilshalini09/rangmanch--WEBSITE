@@ -1,5 +1,5 @@
 .jumbotron {
-  background-image: url(../images/rag2.jpg);
+  background-image: url(../images/rag1.jpg);
   background-position: center;
 
   background-size:contain;
@@ -11,8 +11,10 @@ background-attachment: scroll;
 font-style:bold;
 font-family: geneva;
 color: #FFFFFF;
+font-weight:bold;
+
  padding: 6px;
- background-image: url(../images/rag1.jpg);
+ background-image: url(../images/rag6.jpg);
 background-size: 150px 100px;
   background-position: center;
 font-size: 10px;

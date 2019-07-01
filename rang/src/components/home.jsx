@@ -26,6 +26,7 @@ Formed in February 2011, we are a dedicated team of 85 students with a head for 
 Enactus DTU has constantly endeavored to be the mascot of change and revolution, and bring innovative entrepreneurial solutions to the table in matters concerning the various evils afflicting the Indian society.<br/>
 
 This the approach has brought Enactus multiple laurels of success. Enactus DTU represented India in the World Cup in 2013 and recently placed 3rd in India, in the Enactus National Competition 2017. We secured the fifth position in the Enactus National Competition 2018 out of 24 competing teams.
+<br/>
 
 
    <p class="p08">
@@ -38,7 +39,6 @@ This the approach has brought Enactus multiple laurels of success. Enactus DTU r
   Enactus DTU aims to bring back the former glory of these forgotten artists and help them in adapting their art-form to suit modern day requirements, simultaneously helping the artist in their transition to the formal business sector, through this multi-sided business platform.
 <br/>
 <br/>
-
 
 </p>
 

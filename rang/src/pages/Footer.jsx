@@ -6,7 +6,7 @@ render(){
   return(
 <footer class="footer">
       <div class="container">
-        <span class="text-muted">RANGMANCH -ENACTUS 2019 DELHI TECHNOLOGICAL UNIVERSITY</span>
+        <span class="text-muted">RANGMANCH -ENACTUS  DELHI TECHNOLOGICAL UNIVERSITY 2019</span>
       </div>
     </footer>
   );
